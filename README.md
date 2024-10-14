@@ -1,6 +1,6 @@
 # Token.js
 
-JavaScript library to create and validate token. Inspired by JSON Web Token.
+JavaScript library to create and validate token. Inspired by JSON Web Token but simpler.
 
 ## Token formula
 
