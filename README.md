@@ -13,6 +13,12 @@ Token consists of only 2 part
 
 eyJ4IjoxMCwieSI6MjB9.ea7353198fda96d50ad568766dc2ff1e4462a22ec6dcafee84f75e719bbd3514
 
+
+## Create Token
+
+![image](https://github.com/user-attachments/assets/d47a7141-ed6e-4a47-9d50-b47cd8caa3ca)
+
+
 ## Author
 
 Mr.Manit Treeprapankit
