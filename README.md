@@ -11,7 +11,7 @@ Token consists of 2 part
 
 ## Example of Token
 
-
+eyJ4IjoxMCwieSI6MjB9.ea7353198fda96d50ad568766dc2ff1e4462a22ec6dcafee84f75e719bbd3514
 
 ## Author
 
