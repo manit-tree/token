@@ -7,9 +7,9 @@ export default defineConfig({
         sourcemap: false,
         emptyOutDir: true,
         lib: {
-            entry: './src/index.ts',
-            name:'$',
-            formats: ['cjs','es'],
+            entry: './src/index.js',
+            name:'sha256',
+            formats: ['es','cjs','iife'],
             fileName: (format) => `[name].[format].js`
         }
     }

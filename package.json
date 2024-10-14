@@ -1,17 +1,20 @@
 {
-  "name": "99",
+  "name": "@8columns/token",
+  "description":"JavaScript library to create and validate token, inspired by JSON Web Token",
   "repository": {
     "type": "git",
-    "url": "https://github.com/<user-name>/<repo-name>"
+    "url": "https://github.com/manit-tree/token"
   },
-  "main": "./dist/index.es.min.js",
+  "main": "./src/index.js",
+  "type":"module",
   "scripts": {
-    "dev": "bun ./src/index.ts",
-    "build": "vite build --config vite.config.mjs && vite build --config vite.config.min.mjs",
-    "test": "bun ./demo/index.ts"
+    "dev": "bun ./src/index.js",
+    "build": "vite build --config vite.config.js && vite build --config vite.config.min.js"
   },
-  "type": "module",
   "devDependencies": {
     "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "sha256": "^0.2.0"
   }
 }
