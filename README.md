@@ -4,7 +4,7 @@ JavaScript library to create and validate token. Inspired by JSON Web Token but 
 
 ## Token formula
 
-Token consists of 2 part 
+Token consists of only 2 part 
 
 1. payload = base64_encode(JSON.stringify(JavaScript Object)) 
 2. signature = sha256(payload + '.' + secret)
